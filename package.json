@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "stdio": "^2.1.3"
+  }
+}
